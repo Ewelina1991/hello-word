@@ -1,2 +1,4 @@
 # hello-word
-just another repository
+
+Hello word. It is my first project in GIT
+
